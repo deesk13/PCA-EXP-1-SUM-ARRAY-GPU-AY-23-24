@@ -1,8 +1,8 @@
 # PCA: EXP-1  SUM ARRAY GPU
-# DEVA DHARSHINI.I
-# 212223240026
-# EX. NO. 1
-# DATE  : 21.03.25
+## NAME: DEVA DHARSHINI.I
+## REG.NO: 212223240026
+## EX. NO. 1
+## DATE  : 21.03.25
 
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution configuration of block.x = 1024. Try to explain the difference and the reason.
